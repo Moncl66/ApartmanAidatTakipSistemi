@@ -27,8 +27,8 @@ Hedef; manuel işlemleri ortadan kaldırarak zaman tasarrufu ve kolay takip imk�
 ## 🧩 Kullanılan Diyagramlar
 
 - ✅ ![Use Case Diyagramı](Usecase_diyagrami.png)  
-- 🔁 ![DFD Diyagramı](DFD_diyagramı.png)  
-- 🧱 ![ER Diyagramı](Er_diyagramı.png)  
+- 🔁 ![DFD Diyagramı](DFD_diyagrami.png)  
+- 🧱 ![ER Diyagramı](Er_diyagrami.png)  
 
 Tüm diyagramlar bu projeye dahil edilmiştir.
 
