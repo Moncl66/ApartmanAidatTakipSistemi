@@ -26,9 +26,9 @@ Hedef; manuel işlemleri ortadan kaldırarak zaman tasarrufu ve kolay takip imk�
 
 ## 🧩 Kullanılan Diyagramlar
 
-- ✅ Use Case Diyagramı  
-- 🔁 DFD (Veri Akış Diyagramı)  
-- 🧱 ER (Varlık-İlişki) Diyagramı  
+- ✅ ![Use Case Diyagramı](Usecase_diyagrami.png)  
+- 🔁 ![DFD Diyagramı](DFD_diyagramı.png)  
+- 🧱 ![ER Diyagramı](Er_diyagramı.png)  
 
 Tüm diyagramlar bu projeye dahil edilmiştir.
 
