@@ -1,4 +1,4 @@
-# 🏢 SAT-Muhammed-Oncul
+# 🏢 Apartman Aidat Takip Sistemi
 
 Bu proje, **Sistem Analizi ve Tasarımı** dersi kapsamında hazırlanmış olup apartman yöneticilerinin daire sakinleriyle ilgili **aidat, borç, ödeme ve gecikme** bilgilerini dijital ortamda kolayca yönetebilmesini sağlamayı amaçlamaktadır.
 
